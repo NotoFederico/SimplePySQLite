@@ -3,7 +3,7 @@ A python console script which performs basic SQL querys
 
 ---
 
-![SimplyPySQLite](cover.png)
+![SimplyPySQLite](Cover.png)
 
 ---
 
