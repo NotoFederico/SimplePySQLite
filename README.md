@@ -10,7 +10,7 @@ A python console script which performs basic SQL querys
 ### Builds
 | Latest release | Latest development build |
 |----------------|--------------------------|
-| [![Noto](https://img.shields.io/badge/master-v1.0-green.svg)](https://github.com/NotoFederico/ImageAIEnhancer/tree/main) | [![Noto](https://img.shields.io/badge/develop-v1.1+-blue.svg)](https://github.com/NotoFederico/ImageAIEnhancer/tree/dev) |
+| [![Noto](https://img.shields.io/badge/master-v1.0-green.svg)](https://github.com/NotoFederico/SimplePySQLite/edit/main) | [![Noto](https://img.shields.io/badge/develop-v1.1+-blue.svg)](https://github.com/NotoFederico/SimplePySQLite/edit/dev) |
 
 ---
 
