@@ -26,7 +26,7 @@ A python console script which performs basic SQL querys
 
 # 1. Introduction
 
-A python console script which performs basic SQL querys
+SimplyPYSQLite is a python console script which performs basic SQL querys with sqlite3 library.
 
 ---
 
